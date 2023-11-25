@@ -19,8 +19,8 @@ public class RobotContainer {
         controller.y().toggleOnTrue(new PlayFromMidiFileCommand(Songs.Revenge));
         controller.x().toggleOnTrue(new PlayFromMidiFileCommand(Songs.Undertale_Megalovania));
         controller.a().toggleOnTrue(new PlayFromMidiFileCommand(Songs.The_Entertainer));
-        controller.b().toggleOnTrue(new PlayFromMidiFileCommand(Songs.Sonata14));
-        controller.leftBumper().toggleOnTrue(new PlayFromMidiFileCommand(Songs.Turkish_March_Mozart));
+        controller.b().toggleOnTrue(new PlayFromMidiFileCommand(Songs.Moonlight_Sonata_3));
+        controller.leftBumper().toggleOnTrue(new PlayFromMidiFileCommand(Songs.Turkish_March));
         controller.rightBumper().toggleOnTrue(new PlayFromMidiFileCommand(Songs.Crazy_Frog));
     }
 }

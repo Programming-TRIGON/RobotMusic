@@ -13,7 +13,7 @@ public enum Songs {
     Rush_E(0),
     Crazy_Frog(3),
     Dancing_Queen(0),
-    Revenge(3);
+    Revenge(1);
 
     final int trackIndex;
 

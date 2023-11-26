@@ -40,9 +40,4 @@ public class PlayFromMidiFileCommand extends Command {
     public boolean isFinished() {
         return midiFile.getLengthSeconds() <= Timer.getFPGATimestamp() - startTimestamp;
     }
-
-    @Override
-    public boolean runsWhenDisabled() {
-        return true;
-    }
 }

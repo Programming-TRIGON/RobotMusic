@@ -4,7 +4,7 @@ This code is used to make your falcons play some music!
 You'll first need to have a specific song's MIDI file to play it.  
 After that, you need to put it inside the `deploy` folder and create a new enum element with the name of the file and the track of the file you want to play.  
 Now, you can create a new `PlayFromMidiFileCommand` command, that will play the midi file when you schedule it!  
-Change the `FALCONS` array in the constants to match the falcons you want to use. 
+Change the `FALCONS` array in the constants to match the falcons you want to use.  
 Note that this project is configured to team 5990 in the `wpilib_preferences.json`.  
 # Preconfigured songs
 This project comes with a couple of songs preconfigured songs, that are toggle-bound to controller buttons, which are the following:  

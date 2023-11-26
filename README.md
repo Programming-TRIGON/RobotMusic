@@ -19,6 +19,6 @@ This project comes with a couple of songs preconfigured songs, that are toggle-b
 * Crazy Frog - bounded to the "left bumper" button on the controller  
 * Dancing Queen - unbounded  
 * Revenge - bounded to the "y" button on the controller   
-# Disclamer
+# Disclaimer
 You may modify this project as you wish! We only created this to have fun, and we encourage anyone to use it, fork it, recreate it, and have fun with it!  
 The only files in this project that are playing music are the files in the `music` folder and some of the constants inside the `Constants` file. The rest is just some example usage.  
